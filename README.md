@@ -30,8 +30,8 @@
 
 <h2>index.html</h2>
 
-![](screen.jpg)
+![](screen.png)
 
 <h2>logs.txt</h2>
 
-![](screen2.jpg)
+![](screen2.png)
